@@ -23,7 +23,7 @@
 - :student: I am currently studying  `Software Engineering` at the UOC.
 - :nerd_face: Always `learning new things`.
 - :thinking: Currently I will `develop` different applications and update my portfolio while working on FullStack
-- :boom: You can visit [MY PORTFOLIO](https://borjachaconalvarez.github.io/portfolio-Borja-Chacon/).
+- :boom: You can visit [My Portfolio](https://borjachaconalvarez.github.io/portfolio-Borja-Chacon/).
 <br>
 
 
