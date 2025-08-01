@@ -3,7 +3,7 @@
 
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://borjachaconalvarez.github.io/portfolio-Borja-Chacon/)
 <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=%F54927&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack-Developer;Future-Software-Engineer;Computer-Engineering-Student;Freelancer;" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color==%23FF0000&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack-Developer;Future-Software-Engineer;Computer-Engineering-Student;Freelancer;" alt="Headline" />
     </div>  
  
 </p>
