@@ -16,7 +16,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color==%23FF0000&size=32&center=true&vCenter=true&width=600&height=50&lines=FullStack-Developer;Future-Software-Engineer;Computer-Engineering-Student;Freelancer;" alt="Headline" />
     </div>  
  
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b>About me </b>
 <br>
 - :school: I am a `Junior FullStack` at <a href="https://www.econocom.es/"> Econocom.
 - :technologist: I love learning all about `Software`.
@@ -27,7 +27,7 @@
 <br>
 
 
-### 🛠 &nbsp;Tech Stack
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture><b>Tech Stack </b>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,7 +45,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### 🧰 &nbsp;Version Controll & Tools 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px></picture><b>Version Controll & Tools </b> 
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
@@ -59,7 +59,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/BorjaChaconAlvarez">
